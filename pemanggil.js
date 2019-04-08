@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="https://papasafelink.blogspot.com/2019/04/How-to-Avoid-a-Messy-Breakup-With-Your-Car-Insurance-Company.html"}
-if(x=="2"){xxx="https://papasafelink.blogspot.com/2019/04/James-Ruppert-diesel-could-be-the-commuters-fuel-of-choice.html"}
-if(x=="3"){xxx="https://papasafelink.blogspot.com/2019/04/auto-insurance-quotes-how-they-are-determined.html"}
-if(x=="4"){xxx="https://papasafelink.blogspot.com/2019/04/one-piece-world-seeker-highlights-major-problem-with-anime-games.html"}
-if(x=="5"){xxx="https://papasafelink.blogspot.com/2019/04/paypal-alternatives-for-accepting-online-payments.html"}a_to_ve[i].href="https://papasafelink.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="2019/04/How-to-Avoid-a-Messy-Breakup-With-Your-Car-Insurance-Company.html"}
+if(x=="2"){xxx="2019/04/James-Ruppert-diesel-could-be-the-commuters-fuel-of-choice.html"}
+if(x=="3"){xxx="2019/04/auto-insurance-quotes-how-they-are-determined.html"}
+if(x=="4"){xxx="2019/04/one-piece-world-seeker-highlights-major-problem-with-anime-games.html"}
+if(x=="5"){xxx="2019/04/paypal-alternatives-for-accepting-online-payments.html"}a_to_ve[i].href="https://papasafelink.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
